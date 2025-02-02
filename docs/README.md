@@ -49,16 +49,17 @@ The **MariaAI Token**, along with **CyaNet** and **AIGT**, represents a signific
 ## **Official Logos**
 
 ### **Developer Logo**
-![MariaAI Network Logo with QR](src/assets/MariaAi_Network_Logo_com_qr.png)
+![MariaAI Network Logo with QR](../src/assets/MariaAi_Network_Logo_com_qr.png)
 
 ### **Logo MAIAI (MariaAi Token)**
-![MAIAI (MariaAi Token)](src/assets/output/QR_MAIAI_MariaAi.jpeg)
+![MAIAI (MariaAi Token)](../src/assets/output/QR_MAIAI_MariaAi.jpeg)
 
 ### **Logo AIGT (AIgnition Token)**
-![AIGT (AIgnition Token)](src/assets/output/QR_AIGT_AIgnition_Token.jpeg)
+![AIGT (AIgnition Token)](../src/assets/output/QR_AIGT_AIgnition_Token.jpeg)
 
 ### **Logo CYA (CyaNetAI Token)**
-![CYA (CyaNetAI Token)](src/assets/output/QR_CYA_CyaNetAI_Token.jpeg)
+![CYA (CyaNetAI Token)](../src/assets/output/QR_CYA_CyaNetAI_Token.jpeg)
+
 
 ---
 
