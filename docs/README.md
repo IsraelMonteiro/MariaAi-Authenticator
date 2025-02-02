@@ -40,9 +40,9 @@ The **MariaAI Token**, along with **CyaNet** and **AIGT**, represents a signific
 
 ### **Official Launch Wallets**:
 
-- **MariaAi**: `sfqo2-lj4k2-7gg6k-uugaq-doz4b-xogar-uoam4-3yhci-uzfkf-nu6y4-cae`
-- **CyaNet**: `ex7qx-diyis-34dwm-uezvl-ojdcl-aftew-lbhp2-f7r6z-jnzug-qlh7x-cae`
-- **AIGT**: `ex7qx-diyis-34dwm-uezvl-ojdcl-aftew-lbhp2-f7r6z-jnzug-qlh7x-cae`
+- **$MARIAAI**: `sfqo2-lj4k2-7gg6k-uugaq-doz4b-xogar-uoam4-3yhci-uzfkf-nu6y4-cae`
+- **$CyaNet**: `ex7qx-diyis-34dwm-uezvl-ojdcl-aftew-lbhp2-f7r6z-jnzug-qlh7x-cae`
+- **$AIGT**: `ex7qx-diyis-34dwm-uezvl-ojdcl-aftew-lbhp2-f7r6z-jnzug-qlh7x-cae`
 
 ---
 
@@ -51,13 +51,13 @@ The **MariaAI Token**, along with **CyaNet** and **AIGT**, represents a signific
 ### **Developer Logo**
 ![MariaAI Network Logo with QR](../src/assets/MariaAi_Network_Logo_com_qr.png)
 
-### **Logo MAIAI (MariaAi Token)**
+### **Logo  $MARIAAI (MariaAi Token)**
 ![MAIAI (MariaAi Token)](../src/assets/output/QR_MAIAI_MariaAi.jpeg)
 
-### **Logo AIGT (AIgnition Token)**
+### **Logo $AIGT (AIgnition Token)**
 ![AIGT (AIgnition Token)](../src/assets/output/QR_AIGT_AIgnition_Token.jpeg)
 
-### **Logo CYA (CyaNetAI Token)**
+### **Logo $CYA (CyaNetAI Token)**
 ![CYA (CyaNetAI Token)](../src/assets/output/QR_CYA_CyaNetAI_Token.jpeg)
 
 
@@ -71,9 +71,13 @@ The images can be used to visually authenticate tokens within the MariaAI ecosys
 
 ## **Official Links**
 
-- 🌐 **Official Website**: [https://mariaai.fun](https://mariaai.fun)
+- 🌐 **Official Website ($MARIAAI)**: [https://mariaai.fun](https://mariaai.fun)
 - 💬 **Telegram**: [https://t.me/mariaAi18y](https://t.me/mariaAi18y)
 - 🐦 **Twitter (X)**: [https://x.com/MariaAi18y](https://x.com/MariaAi18y)
+- 🤖 **launch.bob.fun (BOB)**: [https://launch.bob.fun](https://launch.bob.fun)
+- 💻 **ICPSwap**: [https://app.icpswap.com/swap](https://app.icpswap.com/swap)
+- 🧪 **NNS (IC0 APP)**: [https://nns.ic0.app](https://nns.ic0.app)
+- 👨🏻‍💻 **Internet Computer Tokens by Market Cap (ICP TOKEN)**: [https://icptokens.net](https://icptokens.net)
 
 ---
 
@@ -84,5 +88,4 @@ The **CyaNet Authenticator** is just the beginning of a revolutionary journey fo
 The MariaAI team invites all enthusiasts, developers, and investors to explore this innovation and connect with us to build the future of decentralized AI together.
 
 **Developed with 💡 by MariaAI**  
-🌐 [mariaai.fun](https://mariaai.fun) | 💬 [Telegram](https://t.me/mariaAi18y) | 🐦 [Twitter](https://x.com/MariaAi18y)
-
+🌐 [mariaai.fun](https://mariaai.fun) | 💬 [Telegram](https://t.me/mariaAi18y) | 🐦 [Twitter](https://x.com/MariaAi18y) | 👨🏻‍💻 [Internet Computer](https://internetcomputer.org) 
