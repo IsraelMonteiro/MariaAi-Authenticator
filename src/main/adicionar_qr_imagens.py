@@ -1,74 +1,74 @@
 from PIL import Image, ImageDraw
 import os
 
-def adicionar_qr_com_linha(imagem_base_path, imagem_qr_path, output_path):
+def add_qr_with_line(base_image_path, qr_image_path, output_path):
     """
-    Adiciona uma imagem QR no lado direito da imagem base, com uma linha vermelha passando por trás.
+    Adds a QR Code to the right side of a base image, with a red line passing behind it.
 
-    :param imagem_base_path: Caminho para a imagem base.
-    :param imagem_qr_path: Caminho para a imagem QR.
-    :param output_path: Caminho onde a imagem final será salva.
+    :param base_image_path: Path to the base image.
+    :param qr_image_path: Path to the QR Code image.
+    :param output_path: Path where the final image will be saved.
     """
     try:
-        # Abrir a imagem base e a imagem QR
-        imagem_base = Image.open(imagem_base_path).convert("RGBA")
-        imagem_qr = Image.open(imagem_qr_path).convert("RGBA")
+        # Open the base image and the QR Code image
+        base_image = Image.open(base_image_path).convert("RGBA")
+        qr_image = Image.open(qr_image_path).convert("RGBA")
 
-        # Dimensões da imagem base
-        base_width, base_height = imagem_base.size
+        # Dimensions of the base image
+        base_width, base_height = base_image.size
 
-        # Redimensionar o QR Code para se ajustar melhor à imagem base
-        qr_tamanho = base_height // 4  # 25% da altura da imagem base
-        imagem_qr = imagem_qr.resize((qr_tamanho, qr_tamanho))
+        # Resize the QR Code to fit better on the base image
+        qr_size = base_height // 4  # 25% of the base image height
+        qr_image = qr_image.resize((qr_size, qr_size))
 
-        # Dimensões do QR Code
-        qr_width, qr_height = imagem_qr.size
+        # Dimensions of the QR Code
+        qr_width, qr_height = qr_image.size
 
-        # Posicionar o QR Code no lado direito no meio da imagem
-        posicao_qr = (base_width - qr_width - 10, (base_height - qr_height) // 2)
+        # Position the QR Code on the right side, vertically centered
+        qr_position = (base_width - qr_width - 10, (base_height - qr_height) // 2)
 
-        # Criar uma camada de desenho para adicionar a linha vermelha
-        camada = Image.new("RGBA", imagem_base.size, (255, 255, 255, 0))
-        draw = ImageDraw.Draw(camada)
+        # Create a drawing layer to add the red line
+        layer = Image.new("RGBA", base_image.size, (255, 255, 255, 0))
+        draw = ImageDraw.Draw(layer)
 
-        # Adicionar uma linha vermelha de cima a baixo no lado direito (por trás do QR)
-        linha_x = base_width - qr_width - 10 + qr_width // 2
-        draw.line([(linha_x, 0), (linha_x, base_height)], fill="red", width=2)
+        # Add a red line from top to bottom on the right side (behind the QR Code)
+        line_x = base_width - qr_width - 10 + qr_width // 2
+        draw.line([(line_x, 0), (line_x, base_height)], fill="red", width=2)
 
-        # Combinar a linha vermelha com a imagem base
-        imagem_com_linha = Image.alpha_composite(imagem_base, camada)
+        # Combine the red line with the base image
+        image_with_line = Image.alpha_composite(base_image, layer)
 
-        # Adicionar o QR Code na imagem final
-        imagem_com_linha.paste(imagem_qr, posicao_qr, imagem_qr)
+        # Add the QR Code to the final image
+        image_with_line.paste(qr_image, qr_position, qr_image)
 
-        # Converter para RGB para salvar como JPEG
-        imagem_final_rgb = imagem_com_linha.convert("RGB")
-        imagem_final_rgb.save(output_path, format="JPEG")
-        print(f"Imagem com QR salva em: {output_path}")
+        # Convert to RGB to save as JPEG
+        final_image_rgb = image_with_line.convert("RGB")
+        final_image_rgb.save(output_path, format="JPEG")
+        print(f"Image with QR saved at: {output_path}")
     except FileNotFoundError as e:
-        print(f"Erro: Arquivo não encontrado - {e}")
+        print(f"Error: File not found - {e}")
     except Exception as e:
-        print(f"Erro inesperado: {e}")
+        print(f"Unexpected error: {e}")
 
 
-# Configuração dos caminhos
-base_dir = os.path.dirname(os.path.abspath(__file__))  # Diretório do script atual
-assets_dir = os.path.join(base_dir, "../assets")  # Pasta assets no mesmo nível de src
+# Path configuration
+base_dir = os.path.dirname(os.path.abspath(__file__))  # Current script directory
+assets_dir = os.path.join(base_dir, "../assets")  # Assets folder at the same level as src
 
-# Caminhos para os arquivos de entrada e saída
-imagens_base = [
+# Input and output file paths
+base_images = [
     os.path.join(assets_dir, "MAIAI (MariaAi).JPEG"),
     os.path.join(assets_dir, "CYA (CyaNetAI Token).JPEG"),
     os.path.join(assets_dir, "AIGT (AIgnition Token).JPEG"),
 ]
-imagem_qr = os.path.join(assets_dir, "MariaAi_Network_Logo_com_qr.png")
+qr_image_path = os.path.join(assets_dir, "MariaAi_Network_Logo_com_qr.png")
 
-# Diretório de saída para as imagens resultantes
+# Output directory for the processed images
 output_dir = os.path.join(assets_dir, "output")
 os.makedirs(output_dir, exist_ok=True)
 
-# Adicionar o QR Code a cada imagem base
-for imagem_base_path in imagens_base:
-    nome_base = os.path.basename(imagem_base_path)
-    output_path = os.path.join(output_dir, f"QR_{nome_base}")
-    adicionar_qr_com_linha(imagem_base_path, imagem_qr, output_path)
+# Add the QR Code to each base image
+for base_image_path in base_images:
+    base_name = os.path.basename(base_image_path)
+    output_path = os.path.join(output_dir, f"QR_{base_name}")
+    add_qr_with_line(base_image_path, qr_image_path, output_path)
