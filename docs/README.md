@@ -8,7 +8,7 @@ MariaAi, a pioneer in innovation within the cryptocurrency and artificial intell
 
 The **CyaNet Authenticator** was designed to authenticate official images of projects connected to MariaAi using customized QR Codes. This innovative solution ensures that each image contains a unique and immutable signature, which can be validated by any user.
 
-This functionality was developed by the AI agent **SyaNet_AI_Integration_MVP**, initially designed to act as an image authentication mechanism. In the future, the **SyaNet Authenticator** will expand into a complete agent, integrating advanced features such as:
+This functionality was developed by the AI agent **CyaNet_AI_Integration_MVP**, initially designed to act as an image authentication mechanism. In the future, the **SyaNet Authenticator** will expand into a complete agent, integrating advanced features such as:
 
 - **Cryptocurrency Chatbot**: Assisting in managing and querying information within the ICP network.
 - **Decentralized Authentication**: Offering blockchain-based security solutions.
