@@ -1,5 +1,3 @@
-Aqui está o conteúdo atualizado do arquivo `README.md` para o seu projeto:
-
 ```markdown
 # Token Adapter
 
