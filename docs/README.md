@@ -1,7 +1,7 @@
 # 🚀🤖 **MariaAi Authenticator**: Innovation and Security in the Cryptocurrency Ecosystem
 
 ![GitHub Stars](https://img.shields.io/github/stars/mariaai/authenticator?style=social)
-![Version](https://img.shields.io/badge/version-1.4.0-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Blockchain](https://img.shields.io/badge/blockchain-ICP%20Network-purple)
