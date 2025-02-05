@@ -38,7 +38,7 @@ The **MariaAI Token**, along with **CyaNet** and **AIGT**, represents a signific
 
 ## Project Roadmap
 
-![MariaAI Roadmap](../docs\MariaAi_Roadmap.svg)
+![MariaAI Roadmap](../docs/MariaAi_Roadmap.svg)
 
 ---
 
