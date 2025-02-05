@@ -8,7 +8,7 @@ MariaAi, a pioneer in innovation within the cryptocurrency and artificial intell
 
 The **CyaNet Authenticator** was designed to authenticate official images of projects connected to MariaAi using customized QR Codes. This innovative solution ensures that each image contains a unique and immutable signature, which can be validated by any user.
 
-This functionality was developed by the AI agent **CyaNet_AI_Integration_MVP**, initially designed to act as an image authentication mechanism. In the future, the **SyaNet Authenticator** will expand into a complete agent, integrating advanced features such as:
+This functionality was developed by the AI agent **CyaNet AI Integration MVP**, initially designed to act as an image authentication mechanism. In the future, the **CyaNet Authenticator** will expand into a complete agent, integrating advanced features such as:
 
 - **Cryptocurrency Chatbot**: Assisting in managing and querying information within the ICP network.
 - **Decentralized Authentication**: Offering blockchain-based security solutions.
@@ -38,13 +38,13 @@ The **MariaAI Token**, along with **CyaNet** and **AIGT**, represents a signific
 
 ## Project Roadmap
 
-![MariaAI Roadmap](../docs/MariaAi_Roadmap.svg)
+![MariaAi Roadmap](../docs/MariaAi_Roadmap.svg)
 
 ---
 
 ## **OpenChat Integration**
 
-Join the **MariaAI OpenChat** to engage with the community, share feedback, and participate in discussions about the project's evolution.
+Join the **MariaAi OpenChat** to engage with the community, share feedback, and participate in discussions about the project's evolution.
 
 ### **OpenChat Link**
 [![OpenChat Logo](../src/assets/openchat_logo.png)](https://oc.app/community/havf2-kaaaa-aaaac-agmeq-cai/channel/1592507237/?ref=jw2oj-3iaaa-aaaar-a62ea-cai)
@@ -55,7 +55,7 @@ Join the **MariaAI OpenChat** to engage with the community, share feedback, and 
 
 ### **Official Launch Wallets**:
 
-- **$MARIAAI**: `sfqo2-lj4k2-7gg6k-uugaq-doz4b-xogar-uoam4-3yhci-uzfkf-nu6y4-cae`
+- **$MAIAI**: `sfqo2-lj4k2-7gg6k-uugaq-doz4b-xogar-uoam4-3yhci-uzfkf-nu6y4-cae`
 - **$CyaNet**: `ex7qx-diyis-34dwm-uezvl-ojdcl-aftew-lbhp2-f7r6z-jnzug-qlh7x-cae`
 - **$AIGT**: `ex7qx-diyis-34dwm-uezvl-ojdcl-aftew-lbhp2-f7r6z-jnzug-qlh7x-cae`
 
@@ -66,14 +66,14 @@ Join the **MariaAI OpenChat** to engage with the community, share feedback, and 
 ### **Developer Logo**
 ![MariaAI Network Logo with QR](../src/assets/MariaAi_Network_Logo_com_qr.png)
 
-### **Logo  $MARIAAI (MariaAi Token)**
+### **Logo  $MAIAI (MariaAi Token)**
 ![MAIAI (MariaAi Token)](../src/assets/output/QR_MAIAI_MariaAi.jpeg)
 
 ### **Logo $AIGT (AIgnition Token)**
 ![AIGT (AIgnition Token)](../src/assets/output/QR_AIGT_AIgnition_Token.jpeg)
 
-### **Logo $CYA (CyaNetAI Token)**
-![CYA (CyaNetAI Token)](../src/assets/output/QR_CYA_CyaNetAI_Token.jpeg)
+### **Logo $CyaNet (CyaNetAi Token)**
+![CYA (CyaNet Token)](../src/assets/output/QR_CYA_CyaNetAI_Token.jpeg)
 
 ---
 
@@ -85,7 +85,7 @@ The images can be used to visually authenticate tokens within the MariaAI ecosys
 
 ## **Official Links**
 
-- 🌐 **Official Website ($MARIAAI)**: [https://mariaai.fun](https://mariaai.fun)
+- 🌐 **Official Website ($MAIAI)**: [https://mariaai.fun](https://mariaai.fun)
 - 💬 **Telegram**: [https://t.me/mariaAi18y](https://t.me/mariaAi18y)
 - 🐦 **Twitter (X)**: [https://x.com/MariaAi18y](https://x.com/MariaAi18y)
 - 🤖 **launch.bob.fun (BOB)**: [https://launch.bob.fun](https://launch.bob.fun)
