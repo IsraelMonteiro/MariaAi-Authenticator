@@ -42,6 +42,15 @@ The **MariaAI Token**, along with **CyaNet** and **AIGT**, represents a signific
 
 ---
 
+## **OpenChat Integration**
+
+Join the **MariaAI OpenChat** to engage with the community, share feedback, and participate in discussions about the project's evolution.
+
+### **OpenChat Link**
+[![OpenChat Logo](../src/assets/openchat_logo.png)](https://oc.app/community/havf2-kaaaa-aaaac-agmeq-cai/channel/1592507237/?ref=jw2oj-3iaaa-aaaar-a62ea-cai)
+
+---
+
 ## **Official Project Information**
 
 ### **Official Launch Wallets**:
@@ -65,7 +74,6 @@ The **MariaAI Token**, along with **CyaNet** and **AIGT**, represents a signific
 
 ### **Logo $CYA (CyaNetAI Token)**
 ![CYA (CyaNetAI Token)](../src/assets/output/QR_CYA_CyaNetAI_Token.jpeg)
-
 
 ---
 
@@ -94,4 +102,4 @@ The **CyaNet Authenticator** is just the beginning of a revolutionary journey fo
 The MariaAI team invites all enthusiasts, developers, and investors to explore this innovation and connect with us to build the future of decentralized AI together.
 
 **Developed with 💡 by MariaAI**  
-🌐 [mariaai.fun](https://mariaai.fun) | 💬 [Telegram](https://t.me/mariaAi18y) | 🐦 [Twitter](https://x.com/MariaAi18y) | 👨🏻‍💻 [Internet Computer](https://internetcomputer.org) 
+🌐 [mariaai.fun](https://mariaai.fun) | 💬 [Telegram](https://t.me/mariaAi18y) | 🐦 [Twitter](https://x.com/MariaAi18y) | 👨🏻‍💻 [Internet Computer](https://internetcomputer.org)  
