@@ -79,6 +79,23 @@ Follow our journey as we integrate new features into **MariaAi Authenticator**, 
 
 ---
 
+## Tokenomics: MariaAI Fund Allocation
+
+Our approach to tokenomics reflects our commitment to transparency, innovation, and growth within the cryptocurrency and AI ecosystem.
+
+### Allocation Breakdown:
+- **Marketing**: 20% - Focused on community engagement, promotions, and partnerships to grow the MariaAI ecosystem.
+- **Development**: 30% - Dedicated to enhancing the platform, developing new features, and ensuring the robustness of our solutions.
+- **Liquidity**: 25% - Ensuring smooth operations and stability for token transactions across markets.
+- **Reserve Fund**: 15% - Reserved for future growth opportunities and emergency contingencies.
+- **Team Allocation**: 10% - Rewarding and incentivizing the MariaAI team for their contributions and commitment to the project.
+
+![MariaAI Tokenomics Chart](../src/assets/mariaai_tokenomics_chart_doughnut.png)
+
+Explore how we're building a sustainable and transparent future for decentralized AI innovation!
+
+---
+
 ## 🔗 **Official Links**
 
 - 🌐 [**Website ($MAIAI)**](https://mariaai.fun)  
