@@ -98,7 +98,7 @@ Explore how we're building a sustainable and transparent future for decentralize
 
 ## 🔗 **Official Links**
 
-- 🌐 [**Website ($MAIAI)**](https://mariaai.fun)  
+- 🌐 [**Website ($MAIAI)**](https://mariaai18y.odoo.com/home-page)  
 - 💬 [**Telegram**](https://t.me/mariaAi18y)  
 - 🐦 [**Twitter (X)**](https://x.com/MariaAi18y)  
 - 🤖 [**Launch.bob.fun (BOB)**](https://launch.bob.fun)  

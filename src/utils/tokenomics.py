@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # Data
 categories = ["Marketing", "Development", "Liquidity", "Reserve Fund", "Team Allocation"]
 values = [20, 30, 25, 15, 10]
-colors = ["#FF9999", "#66B3FF", "#99FF99", "#FFCC99", "#C1C1C1"]
+colors = ["#00ffee", "#0000ee", "#ffea00", "#00ff00", "#ff0043"]
 
 # Base directory
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
